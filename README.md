@@ -1,5 +1,5 @@
 # Algorithm
- Algorithm - task for interview
+ Algorithm 
 
  Task:
  Write a function that receives two sequences: A and B of integers 
